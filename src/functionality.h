@@ -4,8 +4,8 @@
 #include <iostream>
 #include <string>
 #include <dlfcn.h>
-#include <plugin.h>
-#include <colormod.h>
+#include "plugin.h"
+#include "colormod.h"
 #define PLUGIN_PREFIX "./plugins/"
 using namespace std;
 
