@@ -48,7 +48,7 @@ int main(){
                 // get plugin
                 const Plugin* toDo = mainFunc[cmdarg[1]];
                 // if not null run plugin logic
-                if(toDo != 0)
+                if(toDo != 0) 
                     toDo->run();
                 // clear buffer
                 cin.ignore();
