@@ -1,7 +1,7 @@
 #include <iostream>
-#include <functionality.h>
+#include "functionality.h"
 #include <vector>
-#include <string_extend.h>
+#include "string_extend.h"
 using namespace std;
 
 // currently extending "main" functionality
